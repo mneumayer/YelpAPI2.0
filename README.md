@@ -23,6 +23,11 @@ https://jquery.com/
 
 https://github.com/bettiolo/oauth-signature-js/tree/master/dist
 
+# How to run demo code
+
+1. Input Yelp credentials into app.js
+2. Run index.html
+3. Use your browser's debug tools to inspect the object recevied from Yelp.
 
 
 ## Script order matters when embedding links in the HTML.
